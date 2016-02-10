@@ -1,0 +1,16 @@
+[
+{
+  "modid": "powerrouters",
+  "name": "PowerRouters",
+  "description": "Advanced Routers, inspired by Factorization.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SoniEx2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
